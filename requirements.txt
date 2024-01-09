@@ -1,0 +1,6 @@
+streamlit
+peewee
+python-dotenv
+extra-streamlit-components
+PyMySQL
+cryptography
