@@ -27,9 +27,9 @@ The idea behind this project is to offer a straightforward authentication soluti
 
 4. Set up your database configuration in `.env`.
     ```bash
-   DB_NAME = 
-   DB_USER = 
-   DB_PASSWORD = 
+   DB_NAME = spa
+   DB_USER = root
+   DB_PASSWORD = 123456
    DB_HOST = 127.0.0.1
    DB_PORT = 3306
     ```
