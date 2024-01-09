@@ -4,6 +4,15 @@ This project is a concept that demonstrates a simple authentication system using
 
 The idea behind this project is to offer a straightforward authentication solution that can serve as a starting point for more complex systems. While this project is just a foundation, there is room for future enhancements, such as cookie handling, password reset and email confirmation via SMTP, etc.
 
+
+## Screenshots
+
+<img src="https://raw.githubusercontent.com/oliveirafafa/streamlit-peewee-auth/master/images/login_img.png" width="350">
+<img src="https://raw.githubusercontent.com/oliveirafafa/streamlit-peewee-auth/master/images/register_img.png" width="350"> 
+<img src="https://raw.githubusercontent.com/oliveirafafa/streamlit-peewee-auth/master/images/landin_page_img.png" width="350">
+
+
+
 ## Table of Contents
 
 - [Installation](#installation)
